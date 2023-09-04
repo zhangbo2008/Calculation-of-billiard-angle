@@ -1,4 +1,19 @@
 # Calculation-of-billiard-angle
+
+
+if you dont speak chinese , you can translate download page's content with chatgpt.
+
+also i will explain the meaning of the talbe of the below link.
+
+the line of the table means  the arc between the two lines . first line is the  link line of the white ball center and the object ball center. the second line is the object ball center and the goal Billiards hole center.
+
+the column of the table means the distance of the two ball's center divided by the diamenter of the ball.
+
+the center data means the arc that you should use . that is the arc between two line . first line is the  link line of the white ball center and the object ball center. the second line is club direction.
+
+if you dont understand ,you can issue the pro.
+
+
 台球角度计算. https://www.cnblogs.com/zhangbo2008/p/17675783.html
 
 
